@@ -1,0 +1,5 @@
+/.idea
+/src/sslstrip2/debug_ssl.log
+/src/sslstrip2/proc.log
+/src/dns2proxy/dnslog.txt
+/src/sslstrip2/sslstrip.log
